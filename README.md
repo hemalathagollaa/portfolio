@@ -15,9 +15,10 @@ This portfolio reflects my current learning journey and my commitment to buildin
 ---
 
 ## 🛠️ Skills Highlighted
-- Java, Python (Basics)
+- Java, Python 
 - Data Structures & OOP fundamentals
-- HTML & CSS (Learning)
+- HTML & CSS ,js
+- springboot(learning)
 - Git & GitHub
 - Problem-solving mindset
 
@@ -32,6 +33,7 @@ This portfolio reflects my current learning journey and my commitment to buildin
 ---
 
 ## 🎓 Education
+- BTech- vishnu institute of technology-cgpa-**9.1**
 - Intermediate (MPC): **96.1%**
 - JEE Mains: **95 Percentile**
 
@@ -43,14 +45,14 @@ To secure a technical internship where I can gain real-world experience, strengt
 ---
 
 ## 🚀 Live Website
-👉 https://yourusername.github.io
+👉 https:/hemalathagollaa.github.io
 
 ---
 
 ## 📬 Contact
-- Email: yourmail@gmail.com  
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourname  
+- Email: hemalathagollaa@gmail.com  
+- GitHub: https://github.com/hemalathagollaa  
+- LinkedIn: https://linkedin.com/in/Hemalatha Golla  
 
 ---
 

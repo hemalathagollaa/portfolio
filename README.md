@@ -18,7 +18,6 @@ This portfolio reflects my current learning journey and my commitment to buildin
 - Java, Python 
 - Data Structures & OOP fundamentals
 - HTML & CSS ,js
-- springboot(learning)
 - Git & GitHub
 - Problem-solving mindset
 

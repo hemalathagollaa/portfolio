@@ -17,8 +17,7 @@ This portfolio reflects my current learning journey and my commitment to buildin
 ## 🛠️ Skills Highlighted
 - Java, Python 
 - Data Structures & OOP fundamentals
-- HTML & CSS ,js
-- Git & GitHub
+- HTML & CSS 
 - Problem-solving mindset
 
 ---
